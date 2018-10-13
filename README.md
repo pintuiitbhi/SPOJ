@@ -5,7 +5,7 @@
    
 ### 2. [Dijkstra,Graph, Shortest Path] 
 -   [Problem](https://www.spoj.com/problems/MICEMAZE/)  
--   *Solution* : [PPATH.cpp](https://github.com/pintuiitbhi/SPOJ/blob/master/PPATH.cpp)
+-   *Solution* : [MICEMAZE.cpp](https://github.com/pintuiitbhi/SPOJ/blob/master/MICEMAZE.cpp)
 
     
     
