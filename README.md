@@ -8,10 +8,10 @@
 -   *Solution* : [MICEMAZE.cpp](https://github.com/pintuiitbhi/SPOJ/blob/master/MICEMAZE.cpp)
 
 ### 3. [Segment Tree] 
--   [Problem](https://www.spoj.com/problems/MICEMAZE/) GSS1
--   *Solution* : [MICEMAZE.cpp](https://github.com/pintuiitbhi/SPOJ/blob/master/MICEMAZE.cpp)
+-   [Problem](https://www.spoj.com/problems/GSS1/) GSS1
+-   *Solution* : [GSS1.cpp](https://github.com/pintuiitbhi/SPOJ/blob/master/GSS1.cpp)
 
--   [Problem](https://www.spoj.com/problems/MICEMAZE/) GSS3
--   *Solution* : [MICEMAZE.cpp](https://github.com/pintuiitbhi/SPOJ/blob/master/MICEMAZE.cpp)
+-   [Problem](https://www.spoj.com/problems/GSS3/) GSS3
+-   *Solution* : [GSS3.cpp](https://github.com/pintuiitbhi/SPOJ/blob/master/GSS3.cpp)
 
     
