@@ -14,4 +14,14 @@
 -   [Problem GSS3](https://www.spoj.com/problems/GSS3/) 
 -   *Solution* : [GSS3.cpp](https://github.com/pintuiitbhi/SPOJ/blob/master/GSS3.cpp)
 
+### 4. [Binary Search] 
+-   [Problem AGGRCOW](https://www.spoj.com/problems/AGGRCOW/) 
+-   *Solution* : [AGGRCOW.cpp](https://github.com/pintuiitbhi/SPOJ/blob/master/AGGRCOW.cpp)
+
+
+### 5. [Segmented Sieve of Eratosthenes] 
+-   [Problem PRIME1](https://www.spoj.com/problems/PRIME1/) 
+-   *Solution* : [PRIME1.cpp](https://github.com/pintuiitbhi/SPOJ/blob/master/PRIME1.cpp)
+
+
     
