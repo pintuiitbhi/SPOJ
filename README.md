@@ -23,7 +23,7 @@
 -   [Problem PRIME1](https://www.spoj.com/problems/PRIME1/) 
 -   *Solution* : [PRIME1.cpp](https://github.com/pintuiitbhi/SPOJ/blob/master/PRIME1.cpp)
 
-### 6. [Dynammic Programming, Recursion] 
+### 6. [Dynamic Programming, Recursion] 
 -   [Problem COINS](https://www.spoj.com/problems/COINS/) 
 -   *Solution* : [COINS.cpp](https://github.com/pintuiitbhi/SPOJ/blob/master/COINS.cpp)
 
